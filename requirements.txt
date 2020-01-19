@@ -1,0 +1,4 @@
+сдыpytelegrambotapi
+requests
+flask
+pymysql
